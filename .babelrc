@@ -1,0 +1,19 @@
+{
+  "presets": ["es2015"],
+  "plugins": [
+    [
+      "import", {
+          "libraryName": "iview",
+          "libraryDirectory": "src/components"
+        }
+    ],
+    [
+      "component", [
+          {
+            "libraryName": "mint-ui",
+            "style": true
+          }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "imgSrc":"http://127.0.0.1:8089/src/APPcommon/images/product1.jpg",
+    "addr":"济南 · 泰悦赫府",
+    "title":"93平 维也纳",
+    "pv":"115",
+    "userImg":"http://127.0.0.1:8089/src/APPcommon/images/user.jpg",
+    "date":"2017-01-02",
+    "ms":["两室两厅1","666套系1"]
+  },
+  {
+    "imgSrc":"http://127.0.0.1:8089/src/APPcommon/images/product2.jpg",
+    "addr":"济南 · 泰悦赫府",
+    "title":"93平 维也纳",
+    "pv":"189",
+    "userImg":"http://127.0.0.1:8089/src/APPcommon/images/user.jpg",
+    "date":"2017-01-03",
+    "ms":["两室两厅2","666套系3"]
+  }
+]

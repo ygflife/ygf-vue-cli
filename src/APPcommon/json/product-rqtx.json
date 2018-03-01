@@ -1,0 +1,30 @@
+[
+  {
+    "id":"pro_001",
+    "imgSrc": "http://127.0.0.1:8089/src/APPcommon/images/product1.jpg",
+    "title": "ceshi",
+    "introduction": "简介",
+    "number": "13次"
+  },
+  {
+    "id":"pro_002",
+    "imgSrc": "http://127.0.0.1:8089/src/APPcommon/images/product2.jpg",
+    "title": "ceshi",
+    "introduction": "简介",
+    "number": "13次"
+  },
+  {
+    "id":"pro_003",
+    "imgSrc": "http://127.0.0.1:8089/src/APPcommon/images/product1.jpg",
+    "title": "ceshi",
+    "introduction": "简介",
+    "number": "13次"
+  },
+  {
+    "id":"pro_004",
+    "imgSrc": "http://127.0.0.1:8089/src/APPcommon/images/product4.jpg",
+    "title": "ceshi",
+    "introduction": "简介",
+    "number": "13次"
+  }
+]

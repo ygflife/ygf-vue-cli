@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1.0, maximum-scale = 1.0, user-scalable = 0" />
+    <title>共享经纪人</title>
+    <script>
+        function resizeWin() {
+            let htmlWidth = document.documentElement.clientWidth || document.body.clientWidth;
+            document.getElementsByTagName('html')[0].style.fontSize = htmlWidth / 10 + 'px';
+        }
+        resizeWin();
+        window.addEventListener('resize',()=>{
+            resizeWin();
+        })
+    </script>
+</head>
+<body>
+    <div id="app"></div>
+</body>
+</html>
